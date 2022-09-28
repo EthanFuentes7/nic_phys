@@ -1,5 +1,5 @@
 import 4bit
 
 while 11>10:
-  nic_send() 
-  nic_recv()
+  4bit.nic_send() 
+  4bit.nic_recv()
